@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kathleeeeeeeeeeeen
 - I have forgotten how to code and am getting back into it "for fun".
+- I am learning to design typography in RoboFont.
 - I like snacks.
-- After working in print publication for 10+ years, I am eager to start designing type.
+- I am a designer and educator at Portland State.
 
 <!---
 kathleeeeeeeeeeeen/kathleeeeeeeeeeeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
